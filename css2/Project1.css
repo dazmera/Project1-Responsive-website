@@ -1,0 +1,32 @@
+
+.supertitle {
+    font-family: 'Indie Flower', cursive;
+    color: #990012;
+}
+
+.horizontalLine {
+    border-top: 3px solid #966f33;
+    width: 95%;
+}
+
+#Bigbead {
+    margin: auto;
+}
+
+#subtitle {
+    color: #990012;
+}
+
+@media screen and (max-width:500px) {
+    .beadpage {
+        background-color: orange;
+    }
+
+    #displaytitle {
+        margin-left: 20px;
+    }
+
+    #thirdanchor {
+        margin-left: 20px;
+    }
+}
